@@ -1,0 +1,25 @@
+{
+  "name": "repl-ijavascript",
+  "version": "1.0.0",
+  "description": "customized repl for javascript/coffeescript",
+  "main": "repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingqian18/REPL-javascript.git"
+  },
+  "keywords": [
+    "repl"
+  ],
+  "author": "Yingqian Mei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingqian18/REPL-javascript/issues"
+  },
+  "homepage": "https://github.com/yingqian18/REPL-javascript#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7"
+  }
+}
